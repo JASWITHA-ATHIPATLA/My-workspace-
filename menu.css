@@ -1,0 +1,18 @@
+/* menu.css */
+body {
+    background-color: #f0fff0;
+    font-family: 'Verdana', sans-serif;
+  }
+  h2 {
+    color: #2e8b57;
+  }
+  ul, ol, dl {
+    margin: 20px;
+  }
+  dt {
+    font-weight: bold;
+  }
+  dd {
+    margin-left: 20px;
+  }
+  
